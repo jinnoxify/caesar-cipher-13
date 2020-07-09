@@ -1,0 +1,49 @@
+.card {
+    margin: 15rem 35rem 0rem 35rem; 
+    width: 50rem;
+    background: rgb(237,237,238);
+    background: linear-gradient(45deg, rgba(237,237,238,1) 0%, rgba(246,38,45,1) 35%, rgba(250,250,250,1) 100%);
+}
+.encrypt {
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container {
+    padding-top: 1rem;
+}
+.btn {
+	background-color:#7892c2;
+	border-radius:10px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:3px 10px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #283966;
+    margin-left: 0.3rem;
+    margin-bottom: 0.25rem;
+}
+.btn:hover {
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+body {
+    background-image: url('cool-background\ .png');
+    background-repeat: repeat;
+}
+
+.list {
+    width: 10rem;
+    text-align: center;
+    margin-left: 39%;
+}
+
+.input-text {
+    padding: 2px 16px 0px 16px;
+}
